@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyFutr</string>
+    <string name="finish">Finish</string>
+    <string name="about_category">Category</string>
+    <string name="about_specific">Specific</string>
+    <string name="instruction_heading">This Quiz contains a list of various activities that could be preformed. For each one indicate
+ how much you would enjoy that activity with the scale</string>
+    <string name="one">1 - Strongly disagree</string>
+    <string name="two">2 - Disagree</string>
+    <string name="three">3 - Neither agree nor disagree</string>
+    <string name="four">4 - Agree</string>
+    <string name="five">5 - Strongly agree</string>
+    <string name="oneB">Strongly disagree</string>
+    <string name="twoB">Disagree</string>
+    <string name="threeB">Neither agree nor disagree</string>
+    <string name="fourB">Agree</string>
+    <string name="fiveB">Strongly Agree</string>
+    <string name="agree">Proceed</string>
+</resources>

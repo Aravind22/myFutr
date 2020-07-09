@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screenTitleTxt">20sp</dimen>
+    <dimen name="screenTitleTxt_sm">15sp</dimen>
+    <dimen name="inputTxt">15sp</dimen>
+    <dimen name="footerTxt">20sp</dimen>
+    <dimen name="footerTxt_sm">15sp</dimen>
+</resources>
